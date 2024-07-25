@@ -1,0 +1,5 @@
+seaborn
+keras
+ipykernel
+numpy
+pandas
