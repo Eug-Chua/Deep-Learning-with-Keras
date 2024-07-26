@@ -1,5 +1,7 @@
 seaborn
-keras
+tensorflow
 ipykernel
 numpy
 pandas
+matplotlib
+scikit-learn
